@@ -91,8 +91,7 @@ $arrayLang['es']['porqueelegirnosCuerpo6'] = "Acerca de como la traducción afec
 
 $arrayLang['es']['textoCentral'] = "Contamos con un equipo de profesionales experimentados y altamente capacitados que se dedican a ofrecer resultados excepcionales en cada proyecto. Además, utilizamos tecnología punta y metodologías probadas para garantizar la máxima precisión y calidad.<br><br>Nuestro compromiso con la satisfacción del cliente es insuperable. Nos esforzamos por comprender sus necesidades específicas y satisfacerlas de forma profesional y eficiente.";
 
-$arrayLang['es']['entradillaContacto'] = "Puede ponerse en contacto con nosotros a través del correo electrónico: <strong>b.granatensis@gmail.com</strong>
-<p>También puede rellenar el siguiente formulario de contacto y uno de nuestros representantes se pondrá en contacto con usted lo antes posible.</p><br>";
+$arrayLang['es']['entradillaContacto'] = "Rellene el siguiente formulario de contacto y uno de nuestros representantes se pondrá en contacto con usted lo antes posible.";
 
 $arrayLang['es']['labelName'] = "Su nombre";
 $arrayLang['es']['labelEmail'] = "Su email";
@@ -175,8 +174,7 @@ $arrayLang['fr']['porqueelegirnosCuerpo6'] = "Sur la manière dont la traduction
 
 $arrayLang['fr']['textoCentral'] = "Nous disposons d'une équipe de professionnels expérimentés et hautement qualifiés qui sont dédiés à fournir des résultats exceptionnels pour chaque projet. En outre, nous utilisons des technologies de pointe et des méthodologies éprouvées pour garantir une précision maximale et une qualité irréprochable.<br><br>Notre engagement envers la satisfaction client est inégalé. Nous nous efforçons de comprendre vos besoins uniques et de les satisfaire de manière professionnelle et efficace. ";
 
-$arrayLang['fr']['entradillaContacto'] = "Vous pouvez nous contacter par e-mail : <strong>bgranatensis@gmail.com</strong>
-<p>Vous pouvez également remplir le formulaire de contact ci-dessous et l'un de nos représentants vous contactera dans les plus brefs délais.</p><br>";
+$arrayLang['fr']['entradillaContacto'] = "Veuillez remplir le formulaire de contact ci-dessous et l'un de nos représentants vous contactera dans les plus brefs délais.";
 
 $arrayLang['fr']['labelName'] = "Votre nom";
 $arrayLang['fr']['labelEmail'] = "Votre email";
@@ -515,7 +513,7 @@ $arrayLang['fr']['derechos'] = "Tous droits réservés";
         <div class="row g-0">
             <div class="col-lg-6 py-6 px-5">
                 <h1 class="display-5 mb-4"><?php echo $arrayLang[$defaultLang]['contacto'];?></h1>
-                <p class="mb-4"><?php echo $arrayLang[$defaultLang]['entradillaContacto'];?></p>
+                <p class="mb-4"><?php echo $arrayLang[$defaultLang]['entradillaContacto'];?></p><br>
                 <form id="contact-form" method="post" action="https://formspree.io/f/mayzqead" role="form" class="contact_form">
                     <div class="row gx-3">
                         <div class="col-6">

@@ -275,9 +275,9 @@ h6,
 font-size: 10px;
 }
 
-/* .grecaptcha-badge {
+.grecaptcha-badge {
     visibility: hidden;
-} */
+}
 
 /* colores */
 .btn-primary{
