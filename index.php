@@ -265,7 +265,7 @@ $arrayLang['fr']['derechos'] = "Tous droits réservés";
         <a href="index.php" class="navbar-brand p-0">
             <img class="logo" src="images/logo_new.png" alt="logotipo de Granatensis Traducción">
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <button aria-label="toggler-icon" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -310,12 +310,12 @@ $arrayLang['fr']['derechos'] = "Tous droits réservés";
                     </div>
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+            <button class="carousel-control-prev" aria-label="previous" type="button" data-bs-target="#header-carousel"
                 data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+            <button class="carousel-control-next" aria-label="next" type="button" data-bs-target="#header-carousel"
                 data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
@@ -542,7 +542,7 @@ $arrayLang['fr']['derechos'] = "Tous droits réservés";
 
                     </div>
                     <div class="col-6">
-                        <button class="btn btn-primary w-100 h-100" type="submit"><?php echo $arrayLang[$defaultLang]['enviar'];?></button>
+                        <button class="btn btn-primary w-100 h-100" type="submit" aria-label="submit"><?php echo $arrayLang[$defaultLang]['enviar'];?></button>
                     </div>
                     <div class="col-12"><br>
                         <p class="legal"><?php echo $arrayLang[$defaultLang]['recapcha1'];?><a target="_blank" href="https://policies.google.com/privacy?hl=<?php echo $arrayLang[$defaultLang]['idioma'];?>"> <?php echo $arrayLang[$defaultLang]['recapcha2'];?></a> <?php echo $arrayLang[$defaultLang]['recapcha3'];?> <a target="_blank" href="https://policies.google.com/terms?hl=<?php echo $arrayLang[$defaultLang]['idioma'];?>"><?php echo $arrayLang[$defaultLang]['recapcha4'];?></a> de Google.</p>
