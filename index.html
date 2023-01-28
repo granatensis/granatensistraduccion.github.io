@@ -459,7 +459,7 @@
           // refresh token every minute to prevent expiration
           setInterval(function(){
             grecaptcha.execute('6LfO7BwkAAAAADu0qaivG1faADylVvOdr-Oz8T_d', {action: 'homepage'}).then(function(token) {
-              console.log( 'refreshed token:', token );
+              //console.log( 'refreshed token:', token );
               document.getElementById("token").value = token;
             });
           }, 60000);
