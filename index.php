@@ -39,7 +39,7 @@ $arrayLang['es']['contacto'] = "Contacto";
 $arrayLang['es']['presupuesto'] = "Presupuesto";
 $arrayLang['es']['preTitulo'] = "Servicios de traducción";
 $arrayLang['es']['titulo'] = "Traducción de documentos legales y técnicos del francés al español";
-$arrayLang['es']['titulo2'] = "Traductores jurados cualificados en traducción legal y técnica";
+$arrayLang['es']['titulo2'] = "Traducción confiable y profesional con traductores jurados cualificados";
 $arrayLang['es']['bienvenido'] = "Bienvenido a ";
 
 $arrayLang['es']['quienessomosEntradilla'] = " Expertos en localización y traducción de documentos legales y técnicos del francés 🇲🇫 al español 🇪🇸";
@@ -123,7 +123,7 @@ $arrayLang['fr']['contacto'] = "Contact";
 $arrayLang['fr']['presupuesto'] = "Devis";
 $arrayLang['fr']['preTitulo'] = "Services de traduction";
 $arrayLang['fr']['titulo'] = "Traduction de documents juridiques et techniques du français vers l'espagnol";
-$arrayLang['fr']['titulo2'] = "Traducteurs assermentés qualifiés pour les traductions juridiques et techniques";
+$arrayLang['fr']['titulo2'] = "Traduction fiable et professionnelle avec des traducteurs jurés qualifiés";
 $arrayLang['fr']['bienvenido'] = "Bienvenue à  ";
 
 $arrayLang['fr']['quienessomosEntradilla'] = " Experts de traduction de documents juridiques et techniques du français 🇲🇫 à l'espagnol 🇪🇸";
