@@ -200,6 +200,17 @@ $arrayLang['fr']['derechos'] = "Tous droits réservés";
 <html lang="en">
 
 <head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZTD254KXSS"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZTD254KXSS');
+    </script>
+
     <meta charset="utf-8">
     <title>Granatensis Traducción</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
